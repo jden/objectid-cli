@@ -2,17 +2,19 @@
 easily generate an objectid string from the command line
 
 ## usage
-```js
-var objectidCli = require('objectid-cli')
+```console
+$ objectid
+54bea0a955793f0b00000001
+
 ```
 
 
 ## api
-
+no flags or options
 
 ## installation
 
-    $ npm install objectid-cli
+    $ npm install -g objectid-cli
 
 
 ## running the tests
