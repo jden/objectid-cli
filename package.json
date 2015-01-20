@@ -13,7 +13,9 @@
   "scripts": {
     "test": "mochi"
   },
-  "bin": "./index.js",
+  "bin": {
+    "objectid": "./index.js"
+  },
   "repository": "git@github.com:jden/objectid-cli.git",
   "license": "ISC",
   "readmeFilename": "README.md",
