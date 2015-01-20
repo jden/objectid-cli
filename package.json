@@ -1,0 +1,18 @@
+{
+  "name": "objectid-cli",
+  "author": "AgileMD <engineering@agilemd.com>",
+  "contributors": ["jden <jason@denizac.org>"],
+  "version": "0.1.0",
+  "description": "easily generate an objectid string from the command line",
+  "keywords": ["objectid"],
+  "main": "index.js",
+  "scripts": {
+    "test": "mochi"
+  },
+  "repository": "git@github.com:agilemd/objectid-cli.git",
+  "license": "ISC",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "mochi": "0.3.0"
+  }
+}
